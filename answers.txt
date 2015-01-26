@@ -1,0 +1,7 @@
+﻿3.
+Local = 1min 53.1sec											
+AWS = 12min 0.0sec
+
+4. 2042
+
+5. Yes, both the local and AWS runs give the same answer.
