@@ -1,0 +1,94 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 1.1vw;
+    color: #012875;
+    padding: 0;
+    margin: 0;
+    overflow-y: scroll;
+}
+
+header {
+	width: 13%;
+	height: 100%;
+	background: #012875;
+	position: fixed;
+	top: 0%;
+}
+
+#content {
+	background: #FFFFFF;
+	margin-left: 19%;
+	padding-top: 1%;	
+}
+
+#rightmargin {
+	width: 7%;
+	height: 100%;
+	background: #012875;
+	position: fixed;
+	top: 0%;
+	margin-left: 93%;
+}
+
+#pageHeader {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+#ratingsTable {
+	font-size: 0.75em;
+	background: #fff;
+	margin: 1%;
+	padding-top: 2.5%;
+	width: 82%;
+	border-collapse: collapse;
+}
+#ratingsTable th {
+	font-size: 1.17em;
+	font-weight: normal;
+	color: #012875;
+	padding: 10px 8px;
+	border-bottom: 2px solid #012875;
+}
+
+#ratingsTable td {
+	border-bottom: 1px solid #ccc;
+	color: #012875;
+	padding: 6px 8px;
+}
+
+#ratingsTable tbody tr:hover td {
+	background-color: #012875;
+	color: #FFD75B;            
+}
+
+#ratingsTable tbody tr:hover a {
+	background-color: #012875;
+	color: #FFD75B;            
+}
+
+a { color: #012875; }
+
+form {
+    display: inline-block;
+}
+
+input[type=text]
+{
+    color: #012875;
+    width: 65%;
+    padding: 3%;
+    text-decoration: none;
+    border: 0;    
+}
+
+input[type=image]
+{
+    vertical-align: middle;
+}
+
+select {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 0.5em;    
+    color: #012875;    
+}
